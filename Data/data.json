@@ -1,0 +1,44 @@
+[
+    {
+      "id": "154f4sdf545",
+      "img": "https://thumbs.dreamstime.com/b/internet-information-technology-businessman-hand-showing-concept-75784736.jpg",
+      "title": "Information Technology",
+      "price": 3000,
+      "details": "Information Technology (IT) is the application of technology to solve organizational and business problems. This field of engineering uses computers, networks, storage, and other technical infrastructure both hardware and software, to deal with and manipulate information/data. Information Technology (IT) professionals are adept with the latest emerging technologies, arriving at the most optimal (consuming least time and effort) solutions to any technical issues that may arise, small-scale or large. The responsibilities of an Information Technology department are many; professionals follow a combination of policies and processes to ensure IT systems run effectively and are aligned with the organization’s needs, they provide tech support, maintenance, device management and security testing services. "
+    },
+    {
+      "id": "15s54f4sdf545",
+      "img": "https://t3.ftcdn.net/jpg/01/14/26/82/360_F_114268216_XJtfCHC4JumLcfLg8pSaKG0nJzdISbRq.jpg",
+      "title": "Computer Forensics",
+      "price": 3500,
+      "details": "This three part InfoSec Specialization covers a wide variety of Computer Forensics topics. In the Digital Forensics Concepts course, you will learn about legal considerations applicable to computer forensics and how to identify, collect and preserve digital evidence. This course dives into the scientific principles relating to digital forensics and gives you a close look at on-scene triaging, keyword lists, grep, file hashing, report writing and the profession of digital forensic examination. The Windows Registry Forensics course shows you how to examine the live registry, the location of the registry files on the forensic image, and how to extract files.  Finally, the Windows OS Forensics course covers windows file systems, Fat32, ExFat, and NTFS. You will learn how these systems store data, what happens when a file gets written to disc, what happens when a file gets deleted from disc, and how to recover deleted files."
+    },
+    {
+      "id": "154f4sdfsd885",
+      "img": "https://s3.eu-west-3.amazonaws.com/dealna/uploads/2016/06/Networking-Accessories.jpg",
+      "title": "Computer Networking",
+      "price": 2000,
+      "details": "Computer Networks course provides an introduction to computer networks, with a special focus on Internet architecture and protocols. Topics include layered network architectures, addressing, naming, forwarding, routing, communication reliability, the client-server model, web, and email protocols."
+    },
+    {
+      "id": "54d4f4sdf545",
+      "img": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?cs=srgb&dl=pexels-kevin-ku-577585.jpg&fm=jpg",
+      "title": "Computer Programming",
+      "price": 4000,
+      "details": "In this degree program, students learn how to develop software products and services. Such skills depend on gaining expertise in fundamental programming languages, so this degree can prepare students for a career as a computer programmer or a software engineer"
+    },
+    {
+      "id": "15ed55df545",
+      "img": "https://static.gigabyte.com/StaticFile/Image/Global/bba2b866d6c24d19788b7b0eac880edb/PromotionBanner/94/png",
+      "title": "Cyber Security",
+      "price": 4500,
+      "details": "This course introduces the concepts and understanding of the field of computer security and how it relates to other areas of information technology. Topics include security threats, hardening systems, securing networks, cryptography and organizational security policies."
+    },
+    {
+        "id": "15ed55df545",
+        "img": "https://thumbs.dreamstime.com/b/dbms-businessman-hologram-concept-futuristic-dbms-businessman-hologram-concept-176710182.jpg",
+        "title": "Database Administration",
+        "price": 3000,
+        "details": "The Database Administrator (DBA) program develops your knowledge of relational database design, system performance, backup and recovery, database security, as well as the technical and business aspects of data modelling."
+      }
+]
