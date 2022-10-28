@@ -5,10 +5,10 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const courses = require("./Data/courses.json");
+const courses = require("./Data/data.json");
 
 app.get("/", (req, res) => {
-  res.send("WellCome To Learning platrom Api Server");
+  res.send("Example");
 });
 
 app.get("/courses", (req, res) => {
@@ -22,5 +22,5 @@ app.get("/courses/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`, port);
+  console.log(`Example ${port}`, port);
 });
